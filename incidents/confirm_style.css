@@ -1,0 +1,66 @@
+/* Typography */
+h1 {
+  text-align: left;
+  font-size: 25px;
+  color: #800000;
+}
+
+/* Layout tags */
+body {
+  font-size: 20px;
+  margin-left: 20%;
+  line-height: 35px;
+  font-family: sans-serif;
+  background: #f2f3f2;
+}
+
+/* Table */
+table {
+  margin-left: 15%;
+  font-size: 20px;
+  width: 50%;
+  line-height: 30px;
+}
+td {
+  text-align: left;
+  vertical-align: top;
+  font-weight:100;
+}
+
+/* Buttons */
+#amend {
+  margin-top: 25%;
+  color:white;
+    background-color: #800000;
+     border-radius: 0.5em;
+    height:5em;
+    width:12em;
+    font-size:0.7em;
+
+}
+
+#amend:hover{
+   cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+
+
+}
+#confirm {
+  margin-top: 16.5%;
+  color:white;
+    background-color: #800000;
+     border-radius: 0.5em;
+    height:5em;
+    width:12em;
+    font-size:0.7em;
+    margin-left:50%;
+
+}
+
+#confirm:hover{
+   cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+
+}

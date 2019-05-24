@@ -1,0 +1,89 @@
+/* Typography */
+h1 {
+  text-align: left;
+  font-size: 25px;
+  font-weight:400;
+  color:#800000;
+}
+
+
+
+
+/* Header */
+#title1 {
+  display: inline-block;
+  width: 20%;
+  margin-left: 8%;
+  margin-right: 20%;
+}
+#title2 {
+  display: inline-block;
+}
+
+/* Layout tags */
+body {
+  font-size: 20px;
+  margin-left: 20%;
+  line-height: 35px;
+  font-family: sans-serif;
+  background: none;
+  font-weight: 100;
+}
+
+/* Table */
+table {
+  margin-left: 15%;
+  font-size: 20px;
+  width: 50%;
+  line-height: 30px;
+  font-weight: 100;
+
+}
+
+
+td {
+  text-align: left;
+  vertical-align: top;
+  font-weight:100;
+}
+
+/* Buttons */
+#back {
+  margin-top: 25%;
+  color:white;
+    background-color: #800000;
+     border-radius: 0.5em;
+    height:5em;
+    width:12em;
+    font-size:0.7em;
+
+   
+}
+#back:hover{
+  cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+
+}
+#resolve {
+  margin-top: 16.5%;
+  color:white;
+    background-color: #800000;
+ width:12em;
+     border-radius: 0.5em;
+    height:5em;
+    margin-left:50%;
+    font-size:0.7em;
+}
+
+#resolve:hover{
+  cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+}
+
+#table-con{
+font-weight:100;  
+}
+
+

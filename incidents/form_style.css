@@ -1,0 +1,235 @@
+/* Typography */
+/*h1 {
+  text-align: left;
+  font-size: 30px;
+}
+h2 {
+  text-align: left;
+  margin-left: 17%;
+  font-size: 25px;
+  text-decoration: underline;
+}
+h3 {
+  text-align: left;
+  margin-left: 17%;
+  font-size: 20px;
+  text-decoration: underline;
+}
+h4 {
+  text-align: left;
+  margin-left: 17%;
+  font-size: 19px;
+}
+
+/* Layout tags */
+/*body {
+  background-color: gray;
+  font-family: Roborto;
+}
+#overlay {
+  width: 50%;
+  padding: 1.5%;
+  margin-top: 2%;
+  margin-left: 25%;
+  height: 120vh auto;
+  background: rgb(255, 255, 255);
+  border-radius: 40px;
+}
+
+/* Form */
+/*form {
+  text-align: left;
+  line-height: 25px;
+  overflow: auto;
+}
+label {
+  float: left;
+  width: 300px;
+  display: block;
+}
+input {
+  float: left;
+  width: 150px;
+}
+.location {
+  margin-top: 6%;
+  line-height: 20px;
+}
+#address {
+  width : 157px;
+  height: 50px;
+  margin-left: 0%;
+}
+.extra {
+  margin-left: 10%;
+  margin-top: 5%;
+}
+#extra {
+  margin-left: 8%;
+  width: 65%;
+  resize: none;
+}
+textarea {
+  margin-left: 8%;
+  resize: none;
+}*/
+
+/* Buttons */
+/*#submit {
+  margin-left: 68%;
+  margin-top: 2%;
+}
+#back {
+  margin-left: 12%;
+  margin-top: -2.5%;
+}*/
+
+
+/* Typography */
+h4{
+    color: #404040;
+}
+h2,h2,h3{
+    color: #800000;
+}
+
+h1 {
+  text-align: left;
+  font-size: 30px;
+}
+h2 {
+  text-align: left;
+  margin-left: 17%;
+  font-size: 25px;
+  text-decoration: underline;
+    font-weight: 200;
+    
+}
+h3 {
+  text-align: left;
+  margin-left: 17%;
+  font-size: 20px;
+  text-decoration: underline;
+    font-weight:300;
+}
+h4 {
+  text-align: left;
+  margin-left: 17%;
+  font-size: 19px;
+    font-weight: 100;
+}
+
+/* Layout tags */
+body {
+  background-color: gray;
+  font-family: sans-serif;
+  height:100%;
+    
+
+}
+#overlay {
+  width: 50%;
+  padding: 1.5%;
+  margin-top: 2%;
+  margin-left: 25%;
+  height: 120vh auto;
+  background: rgb(255, 255, 255);
+  
+}
+
+/* Form */
+form {
+  text-align: left;
+  line-height: 25px;
+  overflow: auto;
+
+}
+label {
+  float: left;
+  width: 300px;
+  display: block;
+}
+input {
+  float: left;
+  width: 15em;
+height: 2em;
+border-style: solid;
+border-width:thin;
+
+
+    border-color: #686868;
+}
+.location {
+  margin-top: 6%;
+  line-height: 20px;
+}
+#address {
+  width: 15em;
+ height:5em;
+    border-style: solid;
+border-width:thin;
+
+    border-color: #686868;
+  margin-left: 0%;
+}
+.extra {
+  margin-left: 10%;
+  margin-top: 5%;
+}
+textarea {
+ 
+   margin-left:10%;
+  resize: none;
+  width:35em;
+  height:10em;
+}
+
+/* Buttons */
+#submit {
+    color:white;
+background-color:#800000;
+  margin-left: 68%;
+  margin-top: 5%;
+    border-radius:0.5em;
+    height:4em;
+   
+  
+}
+
+#submit:hover{
+     cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+}
+    
+#back {
+    color:white;
+    background-color: #800000;
+  margin-left: 12%;
+  margin-top: -7%;
+     border-radius: 0.5em;
+    height:4em;
+  
+
+}
+
+#back:hover{
+     cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+}
+#find{
+      color:white;
+    background-color: #800000;
+     width:5em;
+     border-radius: 0.5em;
+      
+    height:2em;
+    
+}
+
+#find:hover{
+     cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+}

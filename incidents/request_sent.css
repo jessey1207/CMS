@@ -1,0 +1,38 @@
+/* The Modal */
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  left: 25%;
+  top: 10%;
+  width: 50%; 
+  height: 80%; 
+  overflow: auto;
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: white;
+  text-align: center;
+  margin: 5% auto; 
+  padding: 20px;
+  border: 2px solid black;
+  width: 50%; 
+}
+
+/* The Close Button */
+#ok {
+  font-size: 28px;
+  font-weight: bold;
+  border-radius: 0.5em;
+  height:1em;
+  width:4em;
+}
+
+#ok:hover{
+  cursor: pointer;
+    background: #ffc107;
+    color: #000;   
+}
+
+
