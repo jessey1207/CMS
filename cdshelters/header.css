@@ -1,0 +1,17 @@
+#avatar{
+	width:5em;
+	height:5em;
+}
+.navbar-text{
+	font-size: 2.5em;
+	font-family: sans-serif;
+}
+
+.dropdown{
+	font-size:2em;
+
+}
+
+#user{
+	color:gray;
+}
